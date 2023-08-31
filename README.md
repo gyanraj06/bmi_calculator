@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+Flutter skeleton project to calculate BMI. Includes and explains all the flutter skeleton basics by building a BMI application.
 
 ## Getting Started
 
